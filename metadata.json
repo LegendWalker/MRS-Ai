@@ -1,0 +1,7 @@
+{
+  "name": "MRS Ai - Educational AI Tutor",
+  "description": "A high-performance AI agent designed for school competitions, featuring live voice tutoring, smart image analysis, study planning, and search-grounded academic assistance. Built by Students of MRCS!",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
